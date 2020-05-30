@@ -17,10 +17,6 @@ Works:
 - USB OTG
 - Android Q Support
 
-TO-DO:
-
-- Vibration support
-
 ## Compile
 
 First checkout minimal twrp with omnirom tree:

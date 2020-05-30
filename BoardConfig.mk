@@ -131,6 +131,7 @@ TW_USE_TOOLBOX := true
 TW_INPUT_BLACKLIST := "hbtp_vm"
 TW_BRIGHTNESS_PATH := "/sys/class/backlight/panel0-backlight/brightness"
 TW_MAX_BRIGHTNESS := 2047
+PB_SUPPORT_INPUT_HAPTICS := true
 TW_DEFAULT_BRIGHTNESS := 1200
 TW_Y_OFFSET := 80
 TW_H_OFFSET := -80
