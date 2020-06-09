@@ -3,7 +3,7 @@ jobs:
   build:
     docker:
       # new all-in-one docker image
-      - image: androiabledroid/droid-builder-test:latest
+      - image: fr3akyphantom/droid-builderz:bionic
     environment:
       MANIFEST_BRANCH: 'android-10.0'
       VERSION: '2.9.1'
